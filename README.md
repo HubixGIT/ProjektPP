@@ -1,0 +1,2 @@
+# ProjektPP
+Projekt podstawy programowania
